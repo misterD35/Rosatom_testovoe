@@ -1,5 +1,5 @@
 # Тестовое задание на стажировку в Росатом
-## Задачки для стажера. Задание 1
+## Задание 1
 [![Generic badge](https://img.shields.io/badge/Python-3.10-green.svg)](https://www.python.org/)
 
 
